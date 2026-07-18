@@ -1,8 +1,17 @@
-<h1 align="center">Hi 👋, I'm</h1>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm
+</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Ravikumar+M;Computer+Science+Student;Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Always+Learning+New+Things" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Ravikumar+M;Full+Stack+Developer;Computer+Science+Student;Spring+Boot+%7C+React+Developer;Always+Learning+New+Things"
+    alt="Typing SVG"
+  />
 </p>
+
+<h3 align="center">
+💻 Passionate about building scalable software and solving real-world problems.
+</h3>
 
 ### Computer Science Undergraduate | Full Stack Developer | Software Engineer Aspirant
 
