@@ -15,16 +15,34 @@
 
 ### Computer Science Undergraduate | Full Stack Developer | Software Engineer Aspirant
 
-I'm a Computer Science undergraduate at **SSN College of Engineering** passionate about building scalable web applications and solving challenging problems through code.
+I'm a Computer Science undergraduate at **SSN College of Engineering** passionate about building scalable web applications and solving challenging problems ## 👨‍💻 About Me
 
-- 🌱 Currently learning **Advanced DSA, System Design, and Spring Boot**
-- 💻 Interested in **Full Stack Development, Backend Engineering, and Software Engineering**
-- 🚀 Building projects using **React, TypeScript, Spring Boot, Java, and MongoDB**
-- 📚 Strong foundation in **Data Structures & Algorithms, OOP, DBMS, Operating Systems, and Computer Networks**
-- 🎯 Preparing for **Software Engineering Internships & Placements**
-- ⚡ I enjoy building real-world applications and continuously learning new technologies.
+```java
+class Ravikumar {
 
----
+    String role = "Computer Science Undergraduate";
+    String college = "SSN College of Engineering";
+
+    String[] interests = {
+        "Full Stack Development",
+        "Backend Engineering",
+        "Software Engineering"
+    };
+
+    String[] currentlyLearning = {
+        "Advanced DSA",
+        "System Design",
+        "Spring Boot"
+    };
+
+    String[] techStack = {
+        "Java", "React", "TypeScript",
+        "Spring Boot", "MongoDB"
+    };
+
+    String goal = "Build scalable software that solves real-world problems.";
+}
+```
 
 ## 🌐 Connect with Me
 
