@@ -1,18 +1,136 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>I'm **Ravikumar M**, a Computer Science undergraduate at **SSN College of Engineering** with a passion for building scalable web applications and solving challenging problems through code.<br><br>- 🌱 Currently learning **Advanced DSA, System Design, and Spring Boot**<br>- 💻 Interested in **Full Stack Development, Backend Engineering, and Software Development**<br>- 🚀 Building projects using **React, TypeScript, Spring Boot, Java, and MongoDB**<br>- 📚 Strong foundation in **Data Structures, Algorithms, OOP, DBMS, Operating Systems, and Computer Networks**<br>- 🎯 Preparing for **Software Engineering internships and placements**<br>- ⚡ I enjoy turning ideas into real-world applications and continuously learning new technologies.
+<h1 align="center">
+  Hi, I'm
+</h1>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Ravikumar+M;Full+Stack+Developer;Software+Engineer;DSA+Enthusiast"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravikumarsuriya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ravikumarm572006@gmail.com) 
+### Computer Science Undergraduate | Full Stack Developer | Software Engineer Aspirant
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ravikumar572006&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ravikumar572006&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ravikumar572006&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm a Computer Science undergraduate at **SSN College of Engineering** passionate about building scalable web applications and solving challenging problems through code.
+
+- 🌱 Currently learning **Advanced DSA, System Design, and Spring Boot**
+- 💻 Interested in **Full Stack Development, Backend Engineering, and Software Engineering**
+- 🚀 Building projects using **React, TypeScript, Spring Boot, Java, and MongoDB**
+- 📚 Strong foundation in **Data Structures & Algorithms, OOP, DBMS, Operating Systems, and Computer Networks**
+- 🎯 Preparing for **Software Engineering Internships & Placements**
+- ⚡ I enjoy building real-world applications and continuously learning new technologies.
 
 ---
-[![](https://komarev.com/ghpvc/?username=ravikumar572006&icon=2&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/ravikumarsuriya" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:ravikumarm572006@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://github.com/ravikumar572006">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,ts,html,css" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,firebase,gcp,vercel,cloudflare,linux" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🏠 Smart Hostel Outpass Management System
+
+A full-stack hostel management platform with secure authentication, role-based access, multi-level approvals, Docker deployment, and real-time request tracking.
+
+**Tech:** React • TypeScript • Spring Boot • Java • MongoDB • Docker
+
+---
+
+### 📝 Online Examination System
+
+An enterprise-level examination platform supporting online assessments, coding tests, analytics dashboards, randomized questions, and secure authentication.
+
+**Tech:** React • TypeScript • Spring Boot • Java • MongoDB
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ravikumar572006&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravikumar572006&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ravikumar572006&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+- 🏅 Smart India Hackathon (SIH) Participant
+- 🏅 Amazon HackOn Season 6.0 Participant
+- 🏅 NSS Volunteer
+
+---
+
+# 📈 Contribution Graph
+
+[![Ravikumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ravikumar572006&theme=tokyo-night)](https://github.com/ravikumar572006)
+
+---
+
+# 💡 Quote
+
+> *"Code. Learn. Build. Repeat."*
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ravikumar572006&label=Profile+Views&color=0e75b6&style=flat"/>
+</p>
