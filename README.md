@@ -37,38 +37,45 @@ I'm a Computer Science undergraduate at **SSN College of Engineering** passionat
 
 # 💻 Tech Stack
 
-### Languages
-
+### 💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,ts" />
 </p>
 
-### Frontend
-
+### 🌐 Frontend Development
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
-### Backend
-
+### ⚙️ Backend Development
 <p>
-<img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs" />
 </p>
 
-### Database
-
+### 🗄️ Databases
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img height="48" src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-### Tools & Platforms
-
+### ☁️ Cloud & Deployment
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,firebase,gcp,vercel,cloudflare,linux" />
+  <img src="https://skillicons.dev/icons?i=gcp,firebase,docker,vercel,cloudflare" />
 </p>
 
----
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,linux,vscode" />
+</p>
+
+### 📚 Core CS
+<p>
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DBMS-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Operating%20Systems-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Networks-lightgrey?style=for-the-badge"/>
+</p>
 
 # 🚀 Featured Projects
 
